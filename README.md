@@ -50,7 +50,7 @@ IP: 10.0.0.5 | Failed Attempts: 5
 
 ## 🖼️ Output Screenshot
 
-![Output](failed-login-detection.png)https://github.com/guravanuja0601/Failed-login-detection/blob/8df296db526c3b6cfe68e84b2eda319fe4415bd2/failed-login-detection.png
+![Output](failed-login-detection.png)
 ---
 
 ## 🎯 Future Improvements
