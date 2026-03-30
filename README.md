@@ -30,10 +30,12 @@ This project detects suspicious login activity by analyzing system logs. It iden
 ---
 
 ## 📂 Project Structure
+'''
 detector.py                
 logs.txt                  
 attackers.txt             
-failed-login-detection.png 
+failed-login-detection.png
+'''
 ---
 
 ## ▶️ How to Run
