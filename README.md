@@ -45,9 +45,11 @@ python3 detector.py
 ```
 
 ## 📊 Example Output
+```
 Suspicious IPs:
 IP: 192.168.1.10 | Failed Attempts: 4
 IP: 10.0.0.5 | Failed Attempts: 5
+```
 ---
 
 ## 🖼️ Output Screenshot
