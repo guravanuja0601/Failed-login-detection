@@ -42,7 +42,7 @@ failed-login-detection.png
 
 ```bash
 python3 detector.py
----
+```
 
 ## 📊 Example Output
 Suspicious IPs:
@@ -52,7 +52,7 @@ IP: 10.0.0.5 | Failed Attempts: 5
 
 ## 🖼️ Output Screenshot
 
-![Output](failed-login-detection.png)
+![failed login detection](failed-login-detection.png)
 ---
 
 ## 🎯 Future Improvements
